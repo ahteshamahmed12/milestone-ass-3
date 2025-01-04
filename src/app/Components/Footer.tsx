@@ -5,7 +5,7 @@ import { Twitter } from 'lucide-react';
 import { Instagram } from 'lucide-react';
 function Footer() {
   return (
-    <div className='w-[500px] md:w-[770px] lg:w-[1440px] h-[1000px] md:h-[400px] bg-black md:flex'>
+    <div className='w-[500px] md:w-[770px] lg:w-[1440px] h-[1000px] md:h-[400px] bg-black md:flex mt-44'>
 
         <div className='pt-28 md:pl-3 pl-40  '>
             <h1 className='text-white text-base md:text-1xl font-normal pb-4'>Recommended</h1>
